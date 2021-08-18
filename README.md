@@ -16,7 +16,7 @@
   </p>
 </p>
 
-## What?
+## What is Doorman?
 
 Doorman creates a way for 
 
