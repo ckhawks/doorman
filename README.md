@@ -22,9 +22,10 @@ Doorman creates a way for
 
 ## Installation
 
-Clone the repo
+First, clone the repo. Then, you can install, build, and start the proxy.
 
 ```
+git clone https://github.com/willocn/doorman
 npm install
 npm run build
 npm run start
